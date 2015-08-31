@@ -1,4 +1,4 @@
-#注意：请自行修改tomcat-user.xml 中tomcat manager的账号密码
+#注意：请自行修改tomcat-user.xml 中tomcat manager的用户/密码
 
 # dockerTomcat
 a tomcat7 docker container base on centos7
