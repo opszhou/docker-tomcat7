@@ -5,7 +5,6 @@ ENV LANG=zh_CN.UTF-8
 RUN localedef -f UTF-8 -i zh_CN zh_CN.UTF-8
 
 ## java install
-
 ENV JAVA_VERSION 7u80-b15
 # ENV JAVA_NAME jdk-7u80-linux-x64
 ENV JAVA_NAME server-jre-7u80-linux-x64
