@@ -4,7 +4,7 @@
 a tomcat7 docker container base on centos7
 
 # 使用方法
-  * git clone https://github.com/atvirt/tomcat7
+  * git clone https://github.com/atvirt/docker-tomcat7
   * docker build tomcat7
   * docker tag \<images_id\> tomcat7
   
